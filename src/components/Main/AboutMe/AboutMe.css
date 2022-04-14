@@ -1,0 +1,149 @@
+.about-me__section {
+    min-height: 1079px;
+    margin: 0;
+    padding: 110px 70px 0;
+    box-sizing: border-box;
+
+    position: relative;
+}
+
+.about-me__header-line {
+    height: 1px;
+    border: none;
+    background-color: black;
+
+    margin: 23px 0 0;
+    padding: 0;
+}
+
+.about-me__header {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: -0.04em;
+    color: #000000;
+
+    margin: 0;
+    padding: 0;
+}
+
+.about-me__title {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 58px;
+
+    letter-spacing: -0.04em;
+
+    color: #000000;
+
+    margin: 66px 0 0;
+    padding: 0;
+}
+
+.about-me__subtitle {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    color: #111111;
+
+    margin: 18px 0 0;
+    padding: 0;
+}
+
+.about-me__text {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+
+    max-width: 590px;
+
+    color: #000000;
+
+    margin: 26px 0 0;
+    padding: 0;
+}
+
+.about-me__avatar {
+    width: 270px;
+    height: 327px;
+    border-radius: 10px;
+    object-fit: cover;
+
+    position: absolute;
+    right: 70px;
+    top: 227px;
+}
+
+.about-me__social-links {
+
+    padding: 0;
+    margin: 99px 0 0;
+}
+
+.about-me__social-link {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #000000;
+
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+
+
+.about-me__portfolio {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #A0A0A0;
+
+    margin: 100px 0 0;
+    padding: 0  ;
+}
+
+.about-me__links-block {
+    margin: 50px 0 0;
+    padding: 0;
+}
+.about-me__link {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    text-decoration: none;
+
+    letter-spacing: -0.04em;
+
+    color: #000000;
+
+    background-image: url('../../../images/link_arrow.png');
+    background-repeat: no-repeat;
+    background-position: right 6px center;
+
+    display: block;
+}
+
+.about-me__links-line {
+    background-color: #E6E6E6;
+    height: 1px;
+    border: none;
+
+    margin: 19px 0 20px;
+    padding: 0;
+}
+
+
